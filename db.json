@@ -1,80 +1,82 @@
-[
-  {
-    "id": 1,
-    "title": "Бонс-Т",
-    "price": 141,
-    "description": "Стильный, просторный и удобный – диван «Бонс-Т» является воплощением современных идей в дизайне мягкой мебели. ",
-    "category": {
+{
+  "products": [
+    {
       "id": 1,
-      "name": "Furniture",
-      "image": "https://api.lorem.space/image/furniture?w=640&h=480&r=8794"
+      "title": "Бонс-Т",
+      "price": 141,
+      "description": "Стильный, просторный и удобный – диван «Бонс-Т» является воплощением современных идей в дизайне мягкой мебели. ",
+      "category": {
+        "id": 1,
+        "name": "Furniture",
+        "image": "https://api.lorem.space/image/furniture?w=640&h=480&r=8794"
+      },
+      "image": "https://images.unsplash.com/photo-1550581190-9c1c48d21d6c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
     },
-    "image": "https://images.unsplash.com/photo-1550581190-9c1c48d21d6c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
-  },
-  {
-    "id": 2,
-    "title": "Медиус Beige",
-    "price": 987,
-    "description": "Мягкий угловой диван – универсальное решение для гостиной, независимо от ее габаритов.",
-    "category": {
+    {
       "id": 2,
-      "name": "Furniture",
-      "image": "https://api.lorem.space/image/furniture?w=640&h=480&r=8794"
+      "title": "Медиус Beige",
+      "price": 987,
+      "description": "Мягкий угловой диван – универсальное решение для гостиной, независимо от ее габаритов.",
+      "category": {
+        "id": 2,
+        "name": "Furniture",
+        "image": "https://api.lorem.space/image/furniture?w=640&h=480&r=8794"
+      },
+      "image": "https://images.unsplash.com/photo-1546540749-1642fed507fc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
     },
-    "image": "https://images.unsplash.com/photo-1546540749-1642fed507fc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
-  },
-  {
-    "id": 3,
-    "title": "Стелла",
-    "price": 610,
-    "description": "Большая кровать «Стелла» – интерьерное решение для тех, кто ценит комфорт. Легкий, естественный дизайн, позволяет вписать её в любой интерьер. ",
-    "category": {
+    {
       "id": 3,
-      "name": "Furniture",
-      "image": "https://api.lorem.space/image/furniture?w=640&h=480&r=8794"
+      "title": "Стелла",
+      "price": 610,
+      "description": "Большая кровать «Стелла» – интерьерное решение для тех, кто ценит комфорт. Легкий, естественный дизайн, позволяет вписать её в любой интерьер. ",
+      "category": {
+        "id": 3,
+        "name": "Furniture",
+        "image": "https://api.lorem.space/image/furniture?w=640&h=480&r=8794"
+      },
+      "image": "https://images.unsplash.com/photo-1571508601891-ca5e7a713859?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGJlZHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
     },
-    "image": "https://images.unsplash.com/photo-1571508601891-ca5e7a713859?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGJlZHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
-  },
-  {
-    "id": 4,
-    "title": "Кухня Модо / Вуд",
-    "price": 2306,
-    "description": "Современная встроенная кухня  коллекции Модо/Вуд с матовыми фасадами светлых оттенков включает ниши для встраиваемой техники, открытые полки  и лаконичные стильные ручки.",
-    "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
-  },
-  {
-    "id": 5,
-    "title": "Диван Сваут Velvet",
-    "price": 782,
-    "description": "Мягкий и удобный прямой диван – уютный уголок для комфортного отдыха всей семьи. Оснащенная простым и надежным механизмом трансформации, эта модель легко раскладывается в просторное и ровное место для сна.",
-    "image": "https://images.unsplash.com/photo-1609081144289-eacc3108cd03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
-  },
-  {
-    "id": 6,
-    "title": "Умывальник накладной Эридан",
-    "price": 118,
-    "description": "Накладной серый умывальник из линейки Эридан",
-    "image": "https://images.unsplash.com/photo-1595514535116-d0401260e7cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGJhdGhyb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
-  },
-  {
-    "id": 7,
-    "title": "Ванная",
-    "price": 450,
-    "description": "Акриловая ванна",
-    "image": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmF0aHR1YnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
-  },
-  {
-    "id": 8,
-    "title": "Дисент",
-    "price": 659,
-    "description": "Дисент – один из ваших любимчиков в коллекции малогабаритных диванов! В нем есть все, чтобы радовать и удивлять: уютный, по-настоящему домашний дизайн и непревзойденный комфорт. Компактные размеры – не повод отказываться от нужных опций в ущерб функциональности.",
-    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnVybml0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
-  },
-  {
-    "id": 9,
-    "title": "Льери",
-    "price": 1890,
-    "description": "Лаконичное решение для тех, кто заботится о комфорте своего сна – кровать «Льери». Модель представляет собой периметр из четырех царг с мягким покрытием, поднятый на высокие опоры из массива.",
-    "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-  }
-]
+    {
+      "id": 4,
+      "title": "Кухня Модо / Вуд",
+      "price": 2306,
+      "description": "Современная встроенная кухня  коллекции Модо/Вуд с матовыми фасадами светлых оттенков включает ниши для встраиваемой техники, открытые полки  и лаконичные стильные ручки.",
+      "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "title": "Диван Сваут Velvet",
+      "price": 782,
+      "description": "Мягкий и удобный прямой диван – уютный уголок для комфортного отдыха всей семьи. Оснащенная простым и надежным механизмом трансформации, эта модель легко раскладывается в просторное и ровное место для сна.",
+      "image": "https://images.unsplash.com/photo-1609081144289-eacc3108cd03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "title": "Умывальник накладной Эридан",
+      "price": 118,
+      "description": "Накладной серый умывальник из линейки Эридан",
+      "image": "https://images.unsplash.com/photo-1595514535116-d0401260e7cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGJhdGhyb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 7,
+      "title": "Ванная",
+      "price": 450,
+      "description": "Акриловая ванна",
+      "image": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmF0aHR1YnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 8,
+      "title": "Дисент",
+      "price": 659,
+      "description": "Дисент – один из ваших любимчиков в коллекции малогабаритных диванов! В нем есть все, чтобы радовать и удивлять: уютный, по-настоящему домашний дизайн и непревзойденный комфорт. Компактные размеры – не повод отказываться от нужных опций в ущерб функциональности.",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnVybml0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 9,
+      "title": "Льери",
+      "price": 1890,
+      "description": "Лаконичное решение для тех, кто заботится о комфорте своего сна – кровать «Льери». Модель представляет собой периметр из четырех царг с мягким покрытием, поднятый на высокие опоры из массива.",
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    }
+  ]
+}
