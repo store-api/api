@@ -149,55 +149,6 @@
       "https://www.ikea.com/us/en/images/products/kivik-sofa-tibbleby-beige-gray__1056144_pe848277_s5.jpg?f=s",
       "https://www.ikea.com/us/en/images/products/kivik-sofa-tibbleby-beige-gray__1056137_pe848269_s5.jpg?f=s"
     ]
-  },
-  {
-    "id": 10,
-    "title": "PAX / GRIMO/VIKEDAL - Wardrobe",
-    "price": 1080,
-    "rating": 4.85,
-    "stock": 26,
-    "brand": "Burke Decor",
-    "category": "relax",
-    "description": "A wardrobe fit for the one that loves folding! A lot of shelving space for most things that can be folded, rolled up or just does not fit in drawers.",
-    "image": [
-      "https://www.ikea.com/us/en/images/products/pax-grimo-vikedal-wardrobe-white-gray-mirror-glass__1103639_pe867353_s5.jpg?f=s",
-      "https://www.ikea.com/us/en/images/products/pax-grimo-vikedal-wardrobe-white-gray-mirror-glass__1103637_pe867351_s5.jpg?f=s",
-      "https://www.ikea.com/us/en/images/products/pax-grimo-vikedal-wardrobe-white-gray-mirror-glass__1080327_pe857965_s5.jpg?f=s"
-    ]
-  },
-  {
-    "id": 11,
-    "title": "SMÅSTAD - Loft bed",
-    "price": 750,
-    "rating": 4.94,
-    "stock": 17,
-    "brand": "Castlery",
-    "category": "kids",
-    "description": "Your child’s very own space for sleeping, drawing, storing, doing homework and playing with friends. This loft bed combination is like a mini room within a room on only 2 square metres of space.",
-    "image": [
-      "https://www.ikea.com/us/en/images/products/smastad-loft-bed-white-white-with-desk-with-3-drawers__0939878_pe794702_s5.jpg?f=s",
-      "https://www.ikea.com/us/en/images/products/smastad-loft-bed-white-white-with-desk-with-3-drawers__1055725_ph176424_s5.jpg?f=s",
-      "https://www.ikea.com/us/en/images/products/smastad-loft-bed-white-white-with-desk-with-3-drawers__0926037_pe789024_s5.jpg?f=s",
-      "https://www.ikea.com/us/en/images/products/smastad-loft-bed-white-pale-pink-with-desk-with-3-drawers__0946954_pe798327_s5.jpg?f=s"
-    ]
-  },
-  {
-    "id": 12,
-    "title": "MULLFJÄLLET - Conference chair",
-    "price": 230,
-    "rating": 4.83,
-    "stock": 30,
-    "brand": "AllModern",
-    "category": "job",
-    "description": "This swivel chair is kind to your body and nice to look at, with soft lines accentuated by stitched tufting. Enjoy the comfort and feel free to remove the cover and wash when needed.",
-    "image": [
-      "https://www.ikea.com/us/en/images/products/mullfjaellet-conference-chair-with-casters-naggen-beige__0964069_pe808863_s5.jpg?f=s",
-      "https://www.ikea.com/us/en/images/products/mullfjaellet-conference-chair-with-casters-naggen-beige__0994210_pe833295_s5.jpg?f=xl",
-      "https://www.ikea.com/us/en/images/products/mullfjaellet-conference-chair-with-casters-naggen-beige__0955958_pe804390_s5.jpg?f=s",
-      "https://www.ikea.com/us/en/images/products/mullfjaellet-conference-chair-with-casters-naggen-beige__1024155_pe833437_s5.jpg?f=s"
-    ]
-  },
-
-
+  }
 ]
 }
