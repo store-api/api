@@ -149,6 +149,21 @@
       "https://www.ikea.com/us/en/images/products/kivik-sofa-tibbleby-beige-gray__1056144_pe848277_s5.jpg?f=s",
       "https://www.ikea.com/us/en/images/products/kivik-sofa-tibbleby-beige-gray__1056137_pe848269_s5.jpg?f=s"
     ]
-  }
+  },
+    {
+    "id": 10,
+    "title": "PAX / GRIMO/VIKEDAL - Wardrobe",
+    "price": 1080,
+    "rating": 4.85,
+    "stock": 26,
+    "brand": "Burke Decor",
+    "category": "relax",
+    "description": "A wardrobe fit for the one that loves folding! A lot of shelving space for most things that can be folded, rolled up or just does not fit in drawers.",
+    "image": [
+      "https://www.ikea.com/us/en/images/products/pax-grimo-vikedal-wardrobe-white-gray-mirror-glass__1103639_pe867353_s5.jpg?f=s",
+      "https://www.ikea.com/us/en/images/products/pax-grimo-vikedal-wardrobe-white-gray-mirror-glass__1103637_pe867351_s5.jpg?f=s",
+      "https://www.ikea.com/us/en/images/products/pax-grimo-vikedal-wardrobe-white-gray-mirror-glass__1080327_pe857965_s5.jpg?f=s"
+    ]
+  },
 ]
 }
