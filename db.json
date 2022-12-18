@@ -197,37 +197,7 @@
       "https://www.ikea.com/us/en/images/products/mullfjaellet-conference-chair-with-casters-naggen-beige__1024155_pe833437_s5.jpg?f=s"
     ]
   },
-  {
-    "id": 13,
-    "title": "ENHET - Kitchen, anthracite",
-    "price": 1350,
-    "rating": 4.85,
-    "stock": 27,
-    "brand": "Burke Decor",
-    "category": "kitchen",
-    "description": "A lovely space to cook and workspace on both sides of the sink giving you plenty of room to prepare food. The ceiling is the limit with the wall frame that lets you showcase your favorite things.",
-    "image": [
-      "https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-oak-effect__1059342_pe849589_s5.jpg?f=s",
-      "https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-oak-effect__1059343_pe849588_s5.jpg?f=s",
-      "https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-oak-effect__1059341_pe849586_s5.jpg?f=s",
-      "https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-oak-effect__1056982_pe848689_s5.jpg?f=s"
-    ]
-  },
-  {
-    "id": 14,
-    "title": "HEMNES / RÄTTVIKEN - Bathroom furniture",
-    "price": 870,
-    "rating": 4.75,
-    "stock": 51,
-    "brand": "AllModern",
-    "category": "bathroom",
-    "description": "A simple, crafted look with Scandinavian appeal combined with modern function like smooth-running drawers and water-saving faucet. The high cabinet with mirror makes it easy to check your entire outfit.",
-    "image": [
-      "https://www.ikea.com/us/en/images/products/hemnes-raettviken-bathroom-furniture-set-of-5-gray-hamnskaer-faucet__0920290_pe786951_s5.jpg?f=xl",
-      "https://www.ikea.com/us/en/images/products/hemnes-raettviken-bathroom-furniture-set-of-5-gray-hamnskaer-faucet__0920289_pe786946_s5.jpg?f=s",
-      "https://www.ikea.com/us/en/images/products/hemnes-raettviken-bathroom-furniture-set-of-5-gray-hamnskaer-faucet__1084305_pe859585_s5.jpg?f=s",
-      "https://www.ikea.com/us/en/images/products/hemnes-raettviken-bathroom-furniture-set-of-5-gray-hamnskaer-faucet__1095808_pe864038_s5.jpg?f=s"
-    ]
-  },
+
+
 ]
 }
